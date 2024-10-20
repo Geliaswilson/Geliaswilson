@@ -1,4 +1,5 @@
-<defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="400px" height="110px" text-anchor="middle">
+  <defs>
   <style>
      @font-face {
   font-family: 'Ultra-Regular';
@@ -15,3 +16,7 @@ text-transform:uppercase;
 } 
   </style>
     </defs>
+<text class="heading" x="50%" y="40">
+Starlight Knights
+</text>
+</svg>
