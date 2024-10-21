@@ -9,12 +9,17 @@ font-style: normal;
 }
 .heading {
 font-family: "Ultra-Regular";
+fill: #CC4443;
 font-size:16px;
 font-style:italic;
-fill:#cd4140;
 letter-spacing:4px;
 text-transform:uppercase;
-} 
+animation: glow 2s linear infinite alternate;
+}
+@keyframes glow {
+  to {
+    fill:#71613D;
+    }
   </style>
     </defs>
 <text class="heading" x="50%" y="40">
