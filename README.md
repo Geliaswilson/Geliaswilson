@@ -10,6 +10,7 @@
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="myname-dark.svg"/>
+      <img src="myname-light.svg"/>
     </picture>
   </p>
 <!--
