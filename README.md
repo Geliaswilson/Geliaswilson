@@ -7,7 +7,11 @@
     <img src="ultra-header-light.svg" alt=Starlight Knights" />
   </picture>
   </p>
-  <p>Genesis Elias-Wilson</p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="myname-dark.svg"/>
+    </picture>
+  </p>
 <!--
 **Geliaswilson/Geliaswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
