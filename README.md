@@ -3,7 +3,8 @@
 </p>
 <p align="center">
   <picture>
-    <img src="ultra.svg" alt=Starlight Knights" />
+    <source media="{prefers-color-scheme: dark)" srcset="ultra-header-dark.svg"/>
+    <img src="ultra-header-light.svg" alt=Starlight Knights" />
   </picture>
   </p>
 <!--
