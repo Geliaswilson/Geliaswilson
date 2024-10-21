@@ -9,7 +9,7 @@ font-style: normal;
 }
 .heading {
 font-family: "Ultra-Regular";
-font-size:26px;
+font-size:16px;
 font-style:italic;
 fill:#3B3838;
 letter-spacing:4px;
