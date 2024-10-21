@@ -7,7 +7,7 @@
 font-weight: normal;
 font-style: normal;
 }
-.heading {
+.myname-heading {
 font-family: "Ultra-Regular";
 fill: #e4d0cc;
 font-size:36px;
@@ -16,7 +16,7 @@ letter-spacing:4px;
 text-transform:uppercase;
   </style>
     </defs>
-<text class="heading" x="50%" y="40">
+<text class="myname-heading" x="50%" y="40">
 "Genesis Elias-Wilson"
 </text>
 </svg>
