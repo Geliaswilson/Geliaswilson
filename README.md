@@ -7,7 +7,7 @@
     <img src="ultra-header-light.svg" alt=Starlight Knights" />
   </picture>
   </p>
-  <p align="center" style="background-image: url('https://imgur.com/a/OIiAFfr'); height: 500px; width: 500px; background-size:cover; background-position:center;">
+  <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="myname-dark.svg"/>
       <img src="myname-light.svg"/>
