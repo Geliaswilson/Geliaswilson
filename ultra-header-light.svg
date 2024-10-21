@@ -11,7 +11,7 @@ font-style: normal;
 font-family: "Ultra-Regular";
 font-size:16px;
 font-style:italic;
-fill:#3B3838;
+fill:#cd4140;
 letter-spacing:4px;
 text-transform:uppercase;
 } 
