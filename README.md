@@ -21,9 +21,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
     <img align="left" width="50px" src="react-light.svg"/>
     </picture>
-    <a href="https://www.linkedin.com/in/gen-ew/"><img align="left" width="50px" src="linkedin.svg"/></a><br>
-    <br>
-    <br>
+    <p align="center"><a href="https://www.linkedin.com/in/gen-ew/"><img src="linkedin.svg"/></a></p>
     <img align="left" width="50px" src="node-dark.svg"/>
 <!--
 **Geliaswilson/Geliaswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
