@@ -14,12 +14,15 @@
     </picture>
   </p>
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
-      <img src="react-light.svg"/>
-    </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
+    <img src="react-light.svg"/>
+  </picture>
   <picture>
     <img src="node-dark.svg"/>
+  </picture>
+  <picture>
+    <img src="sass-logo.svg"/>
   </picture>
   </p>
 <!--
