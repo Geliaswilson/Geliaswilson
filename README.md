@@ -17,8 +17,10 @@
     <img align="left" width="50px" src="html5-dark.svg"/>
     <p align="center"><img align="left" height="50px" width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhqeGxkb2UyaXEzbzdqeHYyemVuODJtOGp3dTJlZXYxamswZnF4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NFz5lq3GUKwdPX5Em7/giphy.gif" /> Video Games & Fantasy Fiction <img align="right" height="55px" width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiYzl5ZTF1a3NwN3MxZXFkNzJsOGZodDIyc25keHRxdWV4ZzZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WGcf5IICzDFtufDiD7/giphy.gif" /> </p>  <br>
     <img align="left" width="50px" src="sass-logo.svg"/> <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&pause=1000&color=E4D0CC&center=true&vCenter=true&width=435&height=25&lines=Frontend+Development" alt="Typing SVG" /></a></p>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
-    <img align="left" width="50px" src="react-light.svg"/><br>
+    <img align="left" width="50px" src="react-light.svg"/>
+    </picture><br>
     <br>
     <br>
     <img align="left" width="50px" src="node-dark.svg"/>
