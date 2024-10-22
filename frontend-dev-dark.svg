@@ -8,18 +8,29 @@ font-weight: normal;
 font-style: normal;
 }
 .heading {
+overflow:hidden;
+border-right:10px solid orange;
+white-space: nowrap;
+margin:0 auto;
+letter-spacing: 10px;
 font-family: "DM-Serif";
 fill: #E33B3B;
 font-size:16px;
 font-style:italic;
 letter-spacing:4px;
 text-transform:uppercase;
-animation: glow 2s linear infinite alternate;
+animation: type-glow 3.5s steps(40, end), blink-caret .75s step-end infinite;
 }
-@keyframes glow {
-  to {
-    fill:#bea46a;
-    }
+@keyframes type-glow {
+  from {
+  width: 0
+  }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+from, to { border-color: transparent }
+50% { border-color: orange; }
+}
   </style>
     </defs>
 <text class="heading" x="50%" y="40">
