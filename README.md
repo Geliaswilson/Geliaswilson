@@ -3,6 +3,10 @@
 </p>
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="html5-light.svg"/>
+    <img src="html5-dark.svg"/>
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ultra-header-dark.svg"/>
     <img src="ultra-header-light.svg" alt=Starlight Knights" />
   </picture>
