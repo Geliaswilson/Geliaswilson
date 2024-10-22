@@ -18,6 +18,9 @@
       <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
       <img src="react-light.svg"/>
     </picture>
+  <picture>
+    <img src="node-dark.svg"/>
+  </picture>
   </p>
 <!--
 **Geliaswilson/Geliaswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
