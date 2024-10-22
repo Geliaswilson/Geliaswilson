@@ -13,7 +13,12 @@
       <img src="myname-light.svg"/>
     </picture>
   </p>
-  <p></p>
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
+      <img src="myname-light.svg"/>
+    </picture>
+  </p>
 <!--
 **Geliaswilson/Geliaswilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
