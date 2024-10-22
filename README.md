@@ -15,7 +15,8 @@
   </p>
 <p align="center">
     <picture>
-      <img src="react-dark.svg"/>
+      <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
+      <img src="react-light.svg"/>
     </picture>
   </p>
 <!--
