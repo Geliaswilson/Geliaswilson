@@ -15,10 +15,8 @@
   </p>
     <source media="(prefers-color-scheme: dark)" srcset="html5-light.svg"/>
     <img align="left" width="50px" src="html5-dark.svg"/>
-    <p align="center"><img align="left" height="50px" <width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhqeGxkb2UyaXEzbzdqeHYyemVuODJtOGp3dTJlZXYxamswZnF4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NFz5lq3GUKwdPX5Em7/giphy.gif" /> Video Games & Fantasy Fiction <img align="right" height="55px" width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiYzl5ZTF1a3NwN3MxZXFkNzJsOGZodDIyc25keHRxdWV4ZzZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WGcf5IICzDFtufDiD7/giphy.gif" /> </p>  <br>
-    <br>
-    <br>
-    <img align="left" width="50px" src="sass-logo.svg"/><br>
+    <p align="center"><img align="left" height="50px" width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhqeGxkb2UyaXEzbzdqeHYyemVuODJtOGp3dTJlZXYxamswZnF4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NFz5lq3GUKwdPX5Em7/giphy.gif" /> Video Games & Fantasy Fiction <img align="right" height="55px" width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hiYzl5ZTF1a3NwN3MxZXFkNzJsOGZodDIyc25keHRxdWV4ZzZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WGcf5IICzDFtufDiD7/giphy.gif" /> </p>  <br>
+    <img align="left" width="50px" src="sass-logo.svg"/> <p align="center">Frontend Development</p><br>
     <br>
     <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
     <img align="left" width="50px" src="react-light.svg"/><br>
