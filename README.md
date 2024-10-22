@@ -20,7 +20,8 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
     <img align="left" width="50px" src="react-light.svg"/>
-    </picture><br>
+    </picture>
+    <a href="https://www.linkedin.com/in/gen-ew/"><img align="left" width="50px" src="linkedin.svg"/></a><br>
     <br>
     <br>
     <img align="left" width="50px" src="node-dark.svg"/>
