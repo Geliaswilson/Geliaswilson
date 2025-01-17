@@ -22,7 +22,8 @@
     <img align="left" width="50px" src="react-light.svg"/>
     </picture>
     <p align="center"><a href="https://www.linkedin.com/in/gen-ew/"><img src="linkedin.svg"/></a></p>
-    <img align="left" width="50px" src="node-dark.svg"/>
+    <img align="left" width="50px" src="node-dark.svg"/> <br> <br> <br>
+    <img align="left" width="50px" src="flutter-svgrepo-com.svg"/>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geliaswilson&show_icons=true&theme=rose)
 
