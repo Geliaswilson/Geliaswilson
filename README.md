@@ -20,6 +20,7 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="react-dark.svg"/>
     <img align="left" width="50px" src="react-light.svg"/>
+    <img align="left" width="50px" src="flutter-svgrepo-com.svg"/>
     </picture>
     <p align="center"><a href="https://www.linkedin.com/in/gen-ew/"><img src="linkedin.svg"/></a></p>
     <img align="left" width="50px" src="node-dark.svg"/>
